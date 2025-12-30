@@ -1,2 +1,2 @@
 # capybaraDetector
-Simple CV capybara detector
+Simple CV Project to Translate Expressions Into Capybara
