@@ -1,0 +1,15 @@
+{
+  "time": "20260102_133656",
+  "num_samples": 600,
+  "pose_labels": {
+    "0": "Normal",
+    "1": "Nervous",
+    "2": "Relaxed",
+    "3": "Sad",
+    "4": "Happy",
+    "5": "Approval",
+    "6": "Unknown"
+  },
+  "samples_per_pose": 100,
+  "collection_date": "2026-01-02T13:36:56.140136"
+}
